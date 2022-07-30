@@ -25,6 +25,8 @@ Users can use these features:
 </p>
 <br>
 <br>
+
+
 ## How It Looks
 
 <p>
@@ -34,7 +36,9 @@ Users can use these features:
 </p>
 <br>
 <br>
-##Contributors
+
+
+## Contributors
 <br>
 -Ali Aydın
 <br>
